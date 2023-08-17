@@ -19,6 +19,9 @@ import groovy.json.JsonSlurper
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+//Di buat terpisah masing - masing 1 test case. Post 1 TC, Get 1 TC dan Delete 1 TC tapi skemanya tetep seperti ini. TestCasenya udah gua buatin, nanti isinya kaya gini tp id nya tetep dari post
+//Jangan lupa bikin test suite nya
+
 int id = 10
 
 String petId = 12
