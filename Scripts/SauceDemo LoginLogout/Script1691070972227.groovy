@@ -44,3 +44,6 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/click_listLogout'))
 // Tips. jadi user yg di sediakan web taro semua di array terus untuk user ke 2 itu di tangkep dan di pakein if else
 
 }
+
+
+//BUDAK SEK FOR THE WIN
